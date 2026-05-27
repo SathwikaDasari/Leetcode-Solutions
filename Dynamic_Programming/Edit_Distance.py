@@ -29,9 +29,3 @@ class Solution(object):
         return dp[m][n]
 
         
-        """
-        :type word1: str
-        :type word2: str
-        :rtype: int
-        """
-        
